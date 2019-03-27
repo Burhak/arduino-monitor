@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Arduino Monitor</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="dark_mode">Dark theme</string>
+    <string name="update_period">Update period (min)</string>
+    <string name="dark_mode_description">Use a dark colored widget</string>
+</resources>
